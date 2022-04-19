@@ -31,3 +31,6 @@ Terafrom apply takes +-15 minutes(The first one that create the k8s cluster).
 # Helm folder
 *  Custome ngnix with cusome page
 
+# Docker hub
+	https://hub.docker.com/repository/docker/gals/galapp-ngnix-image/
+
