@@ -2,7 +2,7 @@
 FROM nginx:latest
 
 # Adding custom index.html hosted on Github Gist
-ADD https://gist.githubusercontent.com/gal999/e0529018a7f8946619e23a1e135bb53b/raw/ed4b9250a8e3f164277e2597e538412eeeaef8ce/index.html /usr/share/nginx/html/
+ADD https://gist.githubusercontent.com/gal999/e0529018a7f8946619e23a1e135bb53b/raw/08b5c24f0eb0898e588dbb6264934772e3401645/index.html /usr/share/nginx/html/
 
 
 
