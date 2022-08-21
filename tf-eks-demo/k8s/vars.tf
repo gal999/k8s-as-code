@@ -4,7 +4,7 @@ variable "cluster-name" {
 }
 
 variable "kube_config" {
-  default = "C:\\Users\\gals\\.kube\\config"
+  default = "C:\\Users\\<username>\\.kube\\config"
   type    = string
 }
 
